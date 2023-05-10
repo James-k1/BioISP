@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router"
 import Home from "@/views/Home.vue"
-import CircSystem from "@/views/CirculatorySystem.vue"
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -38,6 +38,11 @@ const router = createRouter({
       path: "/Conservation-Status",
       name: "ConsStat",
       component: () => import('@/views/ConservationStatus.vue'),
+    },
+    {
+      path: "/Resources",
+      name: "Resources",
+      component: () => import('@/views/Resources.vue'),
     },
   ]
     

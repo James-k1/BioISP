@@ -32,7 +32,7 @@
                 </div>
             </div>
         </section>
-        <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col"></div>
+        <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-400 sm:flex-row flex-col"></div>
 
         <h1 class="sm:text-4xl text-3xl font-medium text-center title-font text-gray-900 mb-4">Unidirectional Flow</h1>
 
@@ -42,8 +42,8 @@
                     <div class="sm:w-1/2 mb-10 px-4">
                         <div class="rounded-lg h-65 overflow-hidden">
                             <a href="https://www.ivis.org/library/recent-advances-veterinary-anesthesia-and-analgesia-companion-animals/inhaled-anesthesia"
-                                target="_blank"><img alt="content" style="margin-right: auto; margin-left: auto;" class="object-cover object-center"
-                                    src="../assets/images/inspiration.gif"></a>
+                                target="_blank"><img alt="content" style="margin-right: auto; margin-left: auto;"
+                                    class="object-cover object-center" src="../assets/images/inspiration.gif"></a>
                         </div>
                         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Inspiration</h2>
 
@@ -81,11 +81,11 @@
                     is always air moving through the lungs allowing for continuous gas exchange (Ritchison, n.d).</p>
             </div>
         </section>
-        <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col"></div>
+        <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-400 sm:flex-row flex-col"></div>
 
         <section class="text-gray-600 body-font overflow-hidden">
             <div class="container px-5 py-24 mx-auto">
-                <div class="lg:w-4/5 mx-auto flex flex-wrap" style="margin-right: 20px;">
+                <div class="lg:w-4/5 mx-auto flex flex-wrap">
                     <div class="lg:w-1/2 w-full lg:pr-10 lg:py-6 mb-6 lg:mb-0">
                         <h1 class="text-gray-900 text-3xl title-font font-medium mb-4">Counter Current Exchange
                         </h1>

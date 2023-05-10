@@ -31,18 +31,18 @@
                         to a higher
                         stroke volume compared to mammals (Ritchison, n.d). Additionally, when a bird is active, their heart
                         can reach 670
-                        beats/min whereas most humas struggle to get their heart rate over 200 beats/min (Ritchison, n.d). The higher stroke volume and heart rate allow the shoebill stork to supply it's muscles with enough oxygen to fly.
+                        beats/min whereas most humans struggle to get their heart rate over 200 beats/min (Ritchison, n.d). The higher stroke volume and heart rate allow the shoebill stork to supply it's muscles with enough oxygen to fly.
                     </p>
 
                 </div>
                 <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                    <a href="https://tenor.com/view/heartbeat-circulatory-cardiovascular-gif-13481914" target="_blank"><img class="object-cover object-center rounded" alt="hero"
+                    <a href="https://tenor.com/view/heartbeat-circulatory-cardiovascular-gif-13481914" target="_blank"><img style="margin-left: auto; margin-right: auto;" class="object-cover object-center rounded" alt="hero"
                         src="../assets/images/heartbeat-circulatory.gif"></a>
 
                 </div>
                 
             </div>
-            <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col"></div>
+            <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-400 sm:flex-row flex-col"></div>
         </section>
 
 

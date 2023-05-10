@@ -54,7 +54,7 @@ export default {
                 { name: "Circulatory System", link: "/Circulatory-System", active: false },
                 { name: "Digestive System", link: "/Digestive-System", active: false },
                 { name: "Conservation Status", link: "/Conservation-Status", active: false },
-                { name: "Reasources", link: "/Reasources", active: false }
+                { name: "Resources", link: "/Resources", active: false }
             ], changeListener: false
         }
     },

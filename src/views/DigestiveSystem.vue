@@ -9,8 +9,10 @@
     <div>
         <section class="text-gray-600 body-font">
             <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-                <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero"
+                <a href="http://people.eku.edu/ritchisong/birddigestion.html" target="_blank">
+                <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" style="width: fit-content;" alt="hero"
                     src="../assets/images/Digestive-system.jpg">
+                </a>
                 <div class="text-center lg:w-2/3 w-full">
                     <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Digestive System</h1>
                     <p class="mb-8 leading-relaxed">Shoebill storks' digestive system
@@ -27,13 +29,14 @@
                         digestive system in mammals. The food passes through the first part of the small intestine, the
                         duodenum. Hormones like trypsin, lipase, amylase, and insulin are produced here like in mammals (Ritchison, n.d). The
                         chyme moves through the rest of the small intestine where the nutrients are absorbed. Finally, the
-                        large intestine stores the indigestible material before it is excreted.  </p>
+                        large intestine stores the indigestible material before it is excreted. </p>
 
                 </div>
                 <div class="container" style="width: 25%; height: 25%;">
-                
+                <a href="https://en.wikipedia.org/wiki/Gizzard" target="_blank">
                 <img class="object-cover object-center rounded" alt="hero"
                         src="../assets/images/Gizzard_of_Chicken.jfif">
+                    </a>
                     </div>
             
             </div>

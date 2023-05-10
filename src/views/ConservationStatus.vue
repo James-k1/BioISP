@@ -6,7 +6,47 @@
 
 
 <template>
-    <div class="hello">
-        <p>Under Construction</p>
+    <div>
+        <section class="text-gray-600 body-font">
+            <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
+                <a target="_blank" href="https://granthaminstitute.com/2021/04/22/the-peaks-and-valleys-of-biodiversity-conservation/">
+                <img style="margin: auto; padding-bottom: 70px; padding-top: inherit;" class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero"
+                    src="../assets/images/generic.jpg">
+                </a>
+                <div class="text-center lg:w-2/3 w-full">
+                    <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Conservation</h1>
+                    <p class="mb-8 leading-relaxed">
+                        Shoebills are classified as a vulnerable species under the ICUN’s red list of threatened species. There are only about 3300-5300 mature individuals left and their population continues to decrease each year (Birdlife International, 2018). There are a multitude of threats to the shoebill stork. For example, oil pollution affects the swamps they hunt in, they are captured for the illegal zoo trade, shoebills and their eggs are hunted for consumption, and conflict in Rwanda and the Democratic Republic of Congo has disturbed protected areas (Birdlife International, 2018). The smaller the population, the smaller the gene pool, which makes adapting to changes in the environment more challenging. Increasing the population size is difficult with shoebills because they take a relatively long amount of time fledge young.
+                    </p>
+
+                </div>
+                
+            
+            </div>
+        </section>
+        <div class="lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-400 sm:flex-row flex-col"></div>
+        <section class="text-gray-600 body-font">
+            <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center" style="padding-left: 100px; padding-right: 100px;">
+                <div
+                    class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+                    <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+                        Save the Shoebill Conservation Project
+                    </h1>
+                    <p class="mb-8 leading-relaxed">
+
+                        There are many organizations that are helping with the conservation of shoebills storks. In particular, Save the Shoebill Conservation Project (SSCP) has done lots of great work around this issue. Their goals are to sustain the shoebill population, increase the community involvement in the conservation of wetland birds, and save the wetlands from dams that disrupt the normal flow of water. SSCP has established radio programmes that raise awareness about this issue. Additionally, SSCP has gotten conservation in the Ugandan curriculum. Thus, while the shoebill population is still decreasing each year, there are organizations in place making progress to address the many threats towards their population.
+                    </p>
+
+                </div>
+                <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+                    <a href="https://www.facebook.com/Saveshoebillconservation/" target="_blank"><img style="margin: auto;" class="object-cover object-center rounded" alt="hero"
+                        src="../assets/images/sscp.jfif"></a>
+
+                </div>
+                
+            </div>
+         
+        </section>
+        
     </div>
 </template>

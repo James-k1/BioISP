@@ -11,7 +11,7 @@
         <a href="https://www.sciencefocus.com/nature/shoebill-stork/" target="_blank"><img
             class="lg:w-4/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
             style="margin-left: auto; margin-right: auto;" alt="hero"
-            src="https://images.immediate.co.uk/production/volatile/sites/4/2022/07/2BB2FKK-5119c6d.jpg"></a>
+            src="../assets/images/moregeneric.jpg"></a>
         <div class="text-center lg:w-2/3 w-full">
           <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">General Information</h1>
           <p class="mb-8 leading-relaxed text-lg">The Shoebill stork, or more scientifically known as the Balaeniceps rex,
@@ -21,18 +21,24 @@
             Africa” (Birdfact, 2023). They are carnivorous and mostly hunt lung fish, eels, water snakes, frogs, and even
             baby crocodiles (Lund, 2016). Shoebills are part of the kingdom Animalia, the phylum Chordata, the class Aves,
             the order Pelecaniformes, the family Balaenicipitidae, the genus Balaeniceps, and the species Rex. This
-            website examines their <router-link to="/Circulatory-System" class="text-green-600">Circulatory System,
-            </router-link> <router-link to="/Digestive-System" class="text-green-600">Digestive System, </router-link>
-            <router-link to="/Respiratory-System" class="text-green-600">Respiratory System, </router-link> <router-link
+            website examines their <router-link to="/Evolution" class="text-green-600">Evolution, </router-link>
+
+            <router-link
               to="/Reproduction-and-Parental-Behavior" class="text-green-600">Reproduction and Parental
-              Behavior,</router-link> <router-link to="/Evolution-and-Adaptation" class="text-green-600">Evolution and
-              Adaptation, </router-link> and <router-link to="/Conservation-Status" class="text-green-600">Conservation
+              Behavior, </router-link> 
+
+              <router-link to="/Respiratory-System" class="text-green-600">Respiratory System, </router-link>
+              
+              <router-link to="/Circulatory-System" class="text-green-600">Circulatory System, </router-link> 
+            
+            <router-link to="/Digestive-System" class="text-green-600">Digestive System, </router-link>
+            
+          and <router-link to="/Conservation-Status" class="text-green-600">Conservation
             Status</router-link>.
 
           </p>
           <div class="flex justify-center">
-            <!-- <button
-                        class="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Button</button> -->
+            
 
           </div>
         </div>
