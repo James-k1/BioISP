@@ -106,9 +106,10 @@
                             in the same direction, equalises quickly and therefore, less oxygen can be delivered to the
                             bloodstream (Byrne, n.d).</p>
                     </div>
-                    <!-- CHANGE THIS GARBAGE IMAGE -->
-                    <img alt="" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
+                    <a target="_blank" href="https://www.glowm.com/section-view/heading/Placental%20Physiology/item/195">
+                    <img alt="" style="width: fit-content;" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
                         src="../assets/images/count.gif">
+                    </a>
                 </div>
             </div>
         </section>
